@@ -1,5 +1,6 @@
 freeverb for teensy audio library
 
+https://ccrma.stanford.edu/~jos/pasp/Freeverb.html
 
 #include <Audio.h>
 #include"effect_freeverb.h"
